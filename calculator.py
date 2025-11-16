@@ -1,0 +1,10 @@
+val1 = int(input("Enter First Value:",))
+val2 = int(input("Enter Second Value:",))
+
+print("Sol of",val1,"+",val2,"is",val1+val2)
+print("Sol of",val1,"-",val2,"is",val1-val2)
+print("Sol of",val1,"*",val2,"is",val1*val2)
+print("Sol of",val1,"/",val2,"is",val1/val2)
+print("Sol of",val1,"%",val2,"is",val1%val2)
+print("Sol of",val1,"//",val2,"is",val1//val2)
+print("Sol of",val1,"**",val2,"is",val1**val2)
